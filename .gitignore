@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# main_db
+*.sqlite
+
+#jetbrains
+.idea/
+
+#project
+temp/
+_disciplines/
+files/
